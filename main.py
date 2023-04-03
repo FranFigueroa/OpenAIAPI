@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "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"
+openai.api_key = "CLAVE"
 
 prompt = "Hola, ¿cómo estás?"
 
